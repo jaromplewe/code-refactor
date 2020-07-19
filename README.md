@@ -6,3 +6,5 @@ Changes Admitted:
 3. Added an id="search-engine-optimization", which made the link in the header work
 4. Added comments to help with navigation and organization of the document
 5. Moved CSS elements to correspond with the structure of the HTML Document
+6. Consolidated .css where possible for faster loading
+7. Changed Semantics to be more specific than <div>'s
